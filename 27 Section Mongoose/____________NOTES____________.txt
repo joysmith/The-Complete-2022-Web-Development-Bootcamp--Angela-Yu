@@ -1,0 +1,48 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+-------------------- CREATE ------------------------
+1. How to define schema for Fruits
+	https://mongoosejs.com/docs/guide.html
+
+
+2. 
+
+
+-------------------- READ ------------------------
+2. 
+
+-------------------- UPDATE ------------------------
+3.
+
+
+-------------------- DELETE ------------------------
+
+4. 
+
+
+-------------------- Mongodb Driver ------------------------
+6.
+
+
+7. 
+	
+
+
+Notice:
+	-
+	
+
+
+
+Tools:
+	
+
+
+COOL STUFF FOR INSPIRATION:
+	
+
+
+
+
+

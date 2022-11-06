@@ -1,0 +1,58 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+-------------------- CREATE ------------------------
+1. How to create product collection/table using insertOne() method
+	https://www.mongodb.com/docs/manual/reference/method/db.collection.insertOne/#mongodb-method-db.collection.insertOne
+	https://www.mongodb.com/docs/manual/crud/
+
+
+-------------------- READ ------------------------
+2. How to read from product collection/table using find() method
+	https://www.mongodb.com/docs/manual/reference/method/db.collection.find/#mongodb-method-db.collection.find 
+	https://www.mongodb.com/docs/manual/crud/
+
+
+-------------------- UPDATE ------------------------
+3. How to update from product collection/table using updateOne() method
+	https://www.mongodb.com/docs/manual/reference/method/db.collection.updateOne/#mongodb-method-db.collection.updateOne
+	https://www.mongodb.com/docs/manual/crud/
+
+
+-------------------- DELETE ------------------------
+
+4. How to delete from product collection/table using deleteOne() method  
+	https://www.mongodb.com/docs/manual/reference/method/db.collection.deleteOne/#mongodb-method-db.collection.deleteOne
+	https://www.mongodb.com/docs/manual/crud/
+
+
+-------------------- Mongodb Driver ------------------------
+6. How to install mongodb nodejs driver
+	https://www.mongodb.com/docs/drivers/node/current/quick-start/
+
+
+7. 
+	
+
+
+Notice:
+	-
+	
+
+
+
+Tools:
+	How to install and configure mongodb locally
+	https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514
+
+	
+	
+
+
+COOL STUFF FOR INSPIRATION:
+	
+
+
+
+
+

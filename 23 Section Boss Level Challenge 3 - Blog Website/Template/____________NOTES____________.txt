@@ -1,0 +1,35 @@
+PARADIGM: REFERENCE MODULE-DOCUMENT MENTALITY 
+
+
+1. How to implement EJS layout using partials
+	https://ejs.co/
+
+
+
+
+
+Notice:
+	-> 
+
+
+
+<!-- means we will post to "/compose" route when submit button is pressed -->
+<form action="/compose" method="post">
+  <h1>Compose</h1>
+    <label for="postTitle">Title</label>
+    <input type="text" class="form-control" id="postTitle" name="postTitle" />
+
+  <button type="submit" class="btn btn-primary">Publish</button>
+</form>
+
+
+
+Tools:
+	
+
+
+
+COOL STUFF FOR INSPIRATION:
+	
+
+

@@ -1,0 +1,84 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+-------------------- CREATE ------------------------
+1. How to CREATE product table in SQL db	
+	https://www.w3schools.com/sql/sql_create_table.asp
+
+
+2. What are the datatypes available in MySQL
+	https://www.w3schools.com/sql/sql_datatypes.asp
+
+
+3. How to assign primary key to our product table schema
+	https://www.w3schools.com/sql/sql_primarykey.asp
+
+
+4. How to instert data into product table	
+	https://www.w3schools.com/sql/sql_insert.asp
+
+
+
+-------------------- READ ------------------------
+5. How to READ from the product table by column 
+	https://www.w3schools.com/sql/sql_select.asp
+
+
+6.  How to READ from product table by row using where clause
+	https://www.w3schools.com/sql/sql_where.asp
+
+
+
+-------------------- UPDATE ------------------------
+7. How to UPDATE the product table
+	https://www.w3schools.com/sql/sql_update.asp
+
+
+8. How to UPDATE our product table by adding new column
+	 https://www.w3schools.com/sql/sql_alter.asp
+
+
+
+-------------------- DELETE ------------------------
+
+9. How to DELETE a row from product table
+	https://www.w3schools.com/sql/sql_delete.asp
+
+
+
+---- SQL Relationships, Foreign Keys and Inner Joins ----
+10. How to links multiple tables using foreign key
+	https://www.w3schools.com/sql/sql_foreignkey.asp
+
+
+
+11. How to join multiple table to create new table using foreign key
+	https://www.w3schools.com/sql/sql_join_inner.asp
+
+
+
+
+
+Notice:
+	->foreign key is used to link multiple tables, only for setting up the system so we can perform innerjoin
+	-> innerjoin is use for displaying new table and it uses foreign key link
+	
+
+
+
+
+Tools:
+	Online SQL IDE
+	https://sqliteonline.com/
+	
+
+
+
+
+COOL STUFF FOR INSPIRATION:
+	
+
+
+
+
+

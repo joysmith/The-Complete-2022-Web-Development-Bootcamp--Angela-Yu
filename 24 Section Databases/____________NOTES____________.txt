@@ -1,0 +1,11 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. What are the database tech availabe in the market
+	https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/
+
+
+2. How much data is generate every second and stored in companies db servers
+	https://www.internetlivestats.com/
+
+

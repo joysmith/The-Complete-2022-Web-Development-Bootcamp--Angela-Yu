@@ -1,0 +1,115 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. How to use The Kanye Rest API- Endpoint
+	https://kanye.rest/
+
+
+2. How to use SV443 Joke API- path, parameter query
+	https://sv443.net/jokeapi/v2/
+
+
+3. How to use OpenWeatherMap API- authentication 
+	https://openweathermap.org/api
+
+
+4. How to make http request to external server from my server using native node module
+	https://nodejs.org/api/https.html#https_https_get_url_options_callback
+
+
+5. What are different HTTP response status codes 
+	https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+	https://httpstatusdogs.com/
+	
+
+6. How to convert hexadecimal received data from a web server into JSON object, using JSON.parse()
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+
+
+7. What is the difference between response.write() vs response.send() method in express
+	 https://stackoverflow.com/questions/44692048/what-is-the-difference-between-res-send-and-res-write-in-express
+
+
+8. 
+
+
+
+
+Notice:
+	-> WE can use only single response.send() method in express
+	-> We can use multiple response.write() method in express
+	-> Whenever we are working with APIs, we are using multiple strings concenation patterns
+		-const for url, const for json data, combining with html elements
+		- Netflix, Disney, youtube, all video streaming, imdb, anime, and even app work on same patters 
+
+
+
+Tools:
+	Postman API Tool for testing, better than testing on chrome
+	https://www.postman.com/downloads/
+
+
+	Chrome Browser Add-on Json Viewer Pro (Awesome was sold to another owner)
+	https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+
+	
+	Hexcadecimal Converter- for data received from external server
+	https://cryptii.com/pipes/hex-to-text
+
+
+
+
+COOL STUFF FOR INSPIRATION:
+	UK Police API Documentation
+	https://data.police.uk/docs/
+	
+
+	murdermap.co.uk uses the Police API to plot crime
+	https://www.murdermap.co.uk/maps/london-homicide-map-2020/	
+
+
+	JSON vs. XML
+	https://www.w3schools.com/js/js_json_xml.asp
+	
+
+	The Rise and Rise of JSON
+	https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html
+	
+
+	
+	5 Ways to Make HTTP Requests in Node.js: from my server to external server
+	https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html#:~:text=const%20request%20%3D%20require('request,url)%3B%20console.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

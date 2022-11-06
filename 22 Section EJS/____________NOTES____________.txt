@@ -1,0 +1,77 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+
+---------------- Response obj: Data From server to client---------------------
+1. How to response with single line to client, using res.send("Helo there") method
+	 https://expressjs.com/en/5x/api.html#res.send
+
+
+2. How to response with multiple line to client, using res.write("this method can  be repeated") method
+	 https://stackoverflow.com/questions/44692048/what-is-the-difference-between-res-send-and-res-write-in-express
+
+
+3. How to response with sending HTML file to client, using res.sendFile(__dirname + "./index.html") method
+	caveat: cant server css files, to do we need static file server
+
+
+4. How to response with serving static file from public folder to client, using app.use(express.static("public")) method
+	https://expressjs.com/en/starter/static-files.html
+
+
+5. How to response with EJS Templating to client, using res.render('index', {foo: 'FOO'}); method
+											   EJS	  js-obj
+	https://github.com/mde/ejs/wiki/Using-EJS-with-Express
+	
+
+
+
+---------------- EJS: Data From server to client ---------------------
+6. How to install ejs npm module
+	https://ejs.co/
+
+
+7. How to setup ejs module in express server assumes a "views" directory containing an index.ejs page.
+	https://github.com/mde/ejs/wiki/Using-EJS-with-Express
+
+
+8. What are differnt types of EJS tag
+	https://ejs.co/
+
+
+
+---------------- Response obj: Data From client to Server  ---------------------
+9. How to receive post request data from client to server, using app.post('/', (req, res) method
+	https://expressjs.com/en/guide/routing.html
+
+
+10. 
+	
+
+
+
+Notice:
+	-> EJS Feature
+		1. Passing data in form of key: value, from server to index.ejs template
+		2. Running code inside index.ejs template file 
+		3. Usage to layout using partials
+		
+
+	-> We always use form to send data from client/browser to server
+		1. learn to use bootstrap form templte, to fasten the development
+
+	
+	->
+
+
+
+
+Tools:
+	
+
+
+
+COOL STUFF FOR INSPIRATION:
+	
+
+
