@@ -1,0 +1,70 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. How to change backgrounds color css for instance body tag
+	https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+
+2. where to find keywords color name for css
+	https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+
+3. What are the default css styles applied on tag by browser
+	https://www.w3schools.com/cssref/css_default_values.php
+
+
+4. How to apply border-style: dotted css property on horizontal tag
+	https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+
+
+5. what are different value for setting height css property
+	https://devdocs.io/css/height
+
+
+6. How to change text color using css property
+	https://www.w3schools.com/css/css_text.asp
+
+
+7. CSS reference, keyword-Who aka property to play around
+	https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+
+8. How to use :hover pseudo class to change state of HTML element/tag
+	https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+
+
+
+
+Notice:
+	-> HTML elements/tags can have different states -pseudo classes
+
+
+
+
+Tools:
+	Colour palette used in lectures
+	https://colorhunt.co/
+
+
+	
+	Pesticide for Chrome
+	https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+
+
+
+
+	
+	
+
+
+
+COOL STUFF FOR INSPIRATION:
+	Where to get emoji images
+	https://emojipedia.org/broccoli/
+
+
+
+
+
+
+

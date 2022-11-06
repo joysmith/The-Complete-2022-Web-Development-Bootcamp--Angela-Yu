@@ -1,0 +1,110 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. How to insert favicon
+	https://www.w3schools.com/html/html_favicon.asp
+
+
+2. What is fallback font
+	https://www.w3schools.com/cssref/css_fonts_fallbacks.php
+
+
+3. How to use google font from google cdn
+	https://fonts.google.com/
+
+
+4. How to generate dummy text for paragraph -Lorem Ipsum
+	https://loremipsum.io/
+
+
+5. How to wrap text around image
+	https://developer.mozilla.org/en-US/docs/Web/CSS/float
+
+
+6. Common css properties these can apply on each html element,
+   because every html element is just a box
+
+	THE BOX MODEL
+		height		https://developer.mozilla.org/en-US/docs/Web/CSS/height
+		width			https://developer.mozilla.org/en-US/docs/Web/CSS/width
+		padding		https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+		border		https://developer.mozilla.org/en-US/docs/Web/CSS/border
+		border-style	https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+		margin		https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+		background-color	https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+		background-image	https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+
+
+	THE TEXT PROPERTIES: usecase:- div mostly by .class selector
+		color			https://developer.mozilla.org/en-US/docs/Web/CSS/color
+		text-align		https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+		font-family		https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+		font-size		https://developer.mozilla.org/en-US/docs/Web/CSS/font-size					always use rem value
+		font-weight		https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+		text-decoration	https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+		line-height		https://developer.mozilla.org/en-US/docs/Web/CSS/line-height
+		clear			https://developer.mozilla.org/en-US/docs/Web/CSS/clear
+
+
+	THE DISPLAY & POSITIONING WITH COORDINATES PROPERTIES'
+		display		https://developer.mozilla.org/en-US/docs/Web/CSS/display
+		position		https://developer.mozilla.org/en-US/docs/Web/CSS/position
+		z-index		https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+		
+	
+
+	THE IMAGE PROPERTIES
+		float			https://developer.mozilla.org/en-US/docs/Web/CSS/float
+
+
+
+
+	
+
+
+Notice:
+	-> Each HTML element is just basically a box
+	-> div element is used to divide content 
+	-> With chrome dev tool i can edit css default user.agent stylesheet for testing without implementing on css sheet
+	
+	-> we cant change width of inline html element like- span, anchor tags
+	-> We can change width of block html element like- h1, p, div  tags
+	-> With inline-block, Display property we can change width and make html elements inline like- image
+	
+	-> 
+
+Tools:
+	How to create or convert ur own favicon
+	https://www.favicon.cc/
+
+
+	How many percentage of users using font on window and mcos
+	https://www.cssfontstack.com/
+
+
+	Where to get icon images
+	https://www.flaticon.com/
+
+
+	where to get animated gif
+	https://giphy.com/
+
+
+	How to generate css button
+	https://css3buttongenerator.com/
+
+	
+
+COOL STUFF FOR INSPIRATION:
+	CSS games
+	https://codepip.com/games/
+	https://codingfantasy.com/
+	https://mastery.games/flexboxzombies/
+
+
+
+
+
+
+
+	
