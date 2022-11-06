@@ -1,0 +1,39 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. How to install Express in the myapp directory and save it in the dependencies list using terminal.
+	npm install express --save
+	https://expressjs.com/en/starter/installing.html
+
+
+2. How to create express app with route
+	https://expressjs.com/en/starter/hello-world.html
+
+
+3. How to install nodemon for server reload, automatically. 
+	https://nodemon.io/
+
+
+4. 
+
+
+Notice:
+	
+
+
+
+
+Tools:
+	node package manager
+	https://www.npmjs.com/
+
+
+
+
+COOL STUFF FOR INSPIRATION:
+	What is the state on Javascript in community right now
+	https://2021.stateofjs.com/en-US/libraries/back-end-frameworks
+
+
+	
+

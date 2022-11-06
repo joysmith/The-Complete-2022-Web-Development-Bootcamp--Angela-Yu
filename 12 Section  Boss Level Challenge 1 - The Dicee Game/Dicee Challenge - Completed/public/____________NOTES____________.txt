@@ -1,0 +1,15 @@
+1. How to Dynamic change innerHTML content  of h1 tag using js
+    https://www.w3schools.com/js/js_htmldom_html.asp
+    ref js
+
+2. How to change img-tag src-attribute string by setAttribute() method js
+    https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute
+    ref js
+
+
+Notice:
+
+➡️ each line she commented about string concatenation
+var randomNumber1 = Math.floor(Math.random() * 6) + 1; 👉//1-6
+var randomDiceImage = "dice" + randomNumber1 + ".png"; 👉//dice1.png - dice6.png
+var randomImageSource = "images/" + randomDiceImage; 👉//images/dice1.png - images/dice6.png

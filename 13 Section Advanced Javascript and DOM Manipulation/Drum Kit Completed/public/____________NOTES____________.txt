@@ -1,0 +1,21 @@
+1. How to  addEventListener() to a button
+	https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#syntax
+
+2. What are the types of event, that addEventListener() can listen
+	https://developer.mozilla.org/en-US/docs/Web/Events
+
+3. How to use mouse click event on button
+	https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+
+4. How to use keyboard key event on button
+	https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
+
+5. How to play audio tracks using js
+	https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement
+
+6. How to change button background-image using css property
+	ref. code
+
+7. How to play animation on button using setTimeout() in js
+	https://www.w3schools.com/jsref/met_win_settimeout.asp
+	

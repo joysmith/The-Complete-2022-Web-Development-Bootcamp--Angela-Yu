@@ -1,0 +1,71 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. Principles of Writing Consistent, Idiomatic JavaScript
+	https://github.com/rwaldron/idiomatic.js
+
+
+2. How to use alert popup in js for displaying msg
+	https://developer.mozilla.org/en-US/docs/Web/API/Window/alert
+
+
+3. How to check out datatype using typeof method
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+
+
+4. How to use prompt() popup in js for receiving inputs
+	https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+
+
+5. How to get length of string using .length property in js
+	https://www.w3schools.com/jsref/jsref_length_string.asp
+
+
+6. How to Slice and Extracting Parts of a String in js using tweet.slice(input1, input2) method
+	https://www.w3schools.com/jsref/jsref_slice_string.asp
+
+
+7. How to do string upercase and lowecase
+	https://www.w3schools.com/jsref/jsref_touppercase.asp
+	https://www.w3schools.com/jsref/jsref_tolowercase.asp
+
+
+8. How to round down a number
+	https://www.w3schools.com/jsref/jsref_floor.asp
+
+
+9. 
+
+
+
+
+Notice:
+	
+ 	var name = "Angela";			// store Angela in name box
+	var name = name.toUpperCase();		// perform some functionality on name then, update the name variable 
+	
+	-> We can perform functionality on any piece of data but we have to update it in js, if dont do it the data will be lost 
+	   so first line is to assign and then the second line is doing two things
+	   a.  name.toUpperCase();  			perform functionality, note: this piece of data will be lost if its not saved somewhere
+	   b.  var name = name.toUpperCase();		update the piece of info in name var with the new piece of info
+	  
+
+
+	-> edges cases are consider for better user experiences while creating function
+
+	
+	-> 	  	
+
+
+TOOLS:
+-> Karel Online IDE for exploring function
+	http://stanford.edu/~cpiech/karel/ide.html
+
+
+
+COOL STUFF FOR INSPIRATION
+-> https://charactercounter.com/twitter
+-> https://twittercharactercount.com/
+
+
+

@@ -1,0 +1,108 @@
+PARADIGM: REFERENCE DOCUMENT MENTALITY 
+
+
+1. Where to insert javascript in html docs
+	https://www.w3schools.com/js/js_whereto.asp
+
+
+2. Document Object Properties and Methods like:
+	getElementById()			Returns the element that has the ID attribute with the specified value
+	getElementsByClassName()	Returns an HTMLCollection containing all elements with the specified class name
+	getElementsByName()		Returns an live NodeList containing all elements with the specified name
+	getElementsByTagName()		Returns an HTMLCollection containing all elements with the specified tag name
+
+	https://www.w3schools.com/jsref/dom_obj_document.asp
+
+
+3. How to select tag using Document Object Properties and Methods like:	
+	querySelector()		Returns single item
+	querySelectorAll()	Returns array[]
+	
+	https://www.w3schools.com/jsref/dom_obj_document.asp
+
+	NOTICE:
+	-> querySelector() work like css, means just write the #id, .class, tag, in js the way we write in css style sheet
+	-> How to do combine selector in querySelector()
+		- section: 	11.  The Document Object Model (DOM)
+		- video:	143. Selecting HTML Elements with Javascript
+
+
+
+4. How to change text h1, h2, h3, p tags using HTML DOM Elements
+	innerHTML	Sets or returns the content of an element
+	textContent	Sets or returns the textual content of a node and its descendants
+
+	https://www.w3schools.com/jsref/dom_obj_all.asp
+
+
+5. How to do css styling using js using HTML DOM style properties
+	https://www.w3schools.com/jsref/dom_obj_style.asp
+
+	NOTICE:
+	-> for further studies do css styling writing  	VS  	Js style writing 
+				kebab case					camel case
+				background-color: coral			backgroundColor 
+
+
+
+6. How to add/apply, remove, toggle classes in classList using HTML DOM Elements
+	classList Properties and Methods: 	https://www.w3schools.com/jsref/prop_element_classlist.asp
+	
+	Note:
+		scroll to full page
+
+
+
+7.	How to change HTML attribute of any tag, means anything go inside tag like class, href, src using setAttribute(input1, input2) method
+	https://www.w3schools.com/jsref/met_element_setattribute.asp
+
+
+
+
+
+
+NOTICE:
+	-> Chrome Browser read HTML document from top to bottom
+	-> 
+	
+
+		
+
+
+TOOLS:
+	HTML Tree generator
+	https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
