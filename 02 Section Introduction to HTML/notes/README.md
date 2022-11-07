@@ -1,5 +1,9 @@
 > PARADIGM: "Open Book Exam" aka Reference module-docs mentality
 
+# Mock design
+
+<img src="1%20What%20layout%20we%20are%20replicating.png" width="1000">
+
 1. How to give heading to html
 
 - [mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
