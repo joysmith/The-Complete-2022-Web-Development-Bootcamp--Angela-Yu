@@ -5,6 +5,7 @@
 - What we are trying to replicate<br>
 
   <img src="1%20What%20layout%20we%20are%20replicating.png" width="700">
+  <br>
 
 - What we created<br>
   <img src="2%20What%20layout%20she%20%20made.png" width="700">
