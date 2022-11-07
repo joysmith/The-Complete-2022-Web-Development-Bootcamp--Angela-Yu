@@ -2,7 +2,7 @@
 
 # Mock design
 
-<img src="1%20What%20layout%20we%20are%20replicating.png" width="1000">
+<img src="1%20What%20layout%20we%20are%20replicating.png" width="700">
 
 1. How to give heading to html
 
